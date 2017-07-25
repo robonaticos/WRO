@@ -1,0 +1,2 @@
+# WRO
+Esse programa foi desenvolvido pela nossa equipe com intuito de ajudar os times que participarão da WRO. Fizemos apenas uma demonstração de saída. Na primeira parte, o robô salva as cores dos cubos em suas respectivas áreas. Depois segue a linha e vai para o local onde estão as árvores. Por fim o robô lê a cor das árvores e as associa com a cor da área onde estava o cubo, sabendo, assim, aonde levar cada árvore. Lembramos que é de extrema importância isolar o sensor. Qualquer dúvida é só entrar em contato conosco!
